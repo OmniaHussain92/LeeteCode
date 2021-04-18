@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace LeeteCode
+namespace LeeteCode.Link
 {
     //   Definition for singly-linked list.
     public class ListNode
